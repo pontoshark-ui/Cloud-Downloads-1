@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1051",
+  "folder": "Movies__vid_720p_20260514025816_d8e9bc",
+  "base_name": "Movies__vid_720p_20260514025816_d8e9bc.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pontoshark-ui/Cloud-Downloads-1/releases/tag/co-releases-v1-1051",
+  "files": [
+    {
+      "name": "Movies__vid_720p_20260514025816_d8e9bc.mp4",
+      "url": "https://github.com/pontoshark-ui/Cloud-Downloads-1/releases/download/co-releases-v1-1051/Movies__vid_720p_20260514025816_d8e9bc.mp4",
+      "api_url": "https://api.github.com/repos/pontoshark-ui/Cloud-Downloads-1/releases/assets/419823598",
+      "id": 419823598,
+      "size": 104011,
+      "download_count": 0
+    }
+  ]
+}
