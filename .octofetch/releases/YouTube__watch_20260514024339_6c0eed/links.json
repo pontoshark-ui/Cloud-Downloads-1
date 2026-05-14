@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3937",
+  "folder": "YouTube__watch_20260514024339_6c0eed",
+  "base_name": "pdhx7zviYVY_pdhx7zviYVY_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pontoshark-ui/Cloud-Downloads-1/releases/tag/co-releases-v1-3937",
+  "files": [
+    {
+      "name": "pdhx7zviYVY_pdhx7zviYVY_480p.mp4",
+      "url": "https://github.com/pontoshark-ui/Cloud-Downloads-1/releases/download/co-releases-v1-3937/pdhx7zviYVY_pdhx7zviYVY_480p.mp4",
+      "api_url": "https://api.github.com/repos/pontoshark-ui/Cloud-Downloads-1/releases/assets/419814993",
+      "id": 419814993,
+      "size": 71271556,
+      "download_count": 0
+    }
+  ]
+}
